@@ -1,4 +1,4 @@
----
+--- 
 title: "Personnel Control and Local Officials’ Attention to Economic Development: Evidence from China"
 collection: publications
 permalink: https://journals.sagepub.com/doi/10.1177/00953997231223518
