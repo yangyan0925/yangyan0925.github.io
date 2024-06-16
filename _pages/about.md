@@ -15,7 +15,7 @@ My work has been published in peer-reviewed journals such as _Administration & S
 
 Methodologically, I employ a variety of techniques, including qualitative text analysis, interviews, survey, NLP (e.g., topic modeling, machine learning), and regression analysis. I can use SPSS, STATA, R, and Python for data analysis.
 
-You can download my [CV](CV.pdf) here.
+You can download my [CV](yangyan.pdf) here.
 
 Interest
 ======
