@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Please download here [CV](CV.pdf)
+Please download my [CV](CV.pdf)
