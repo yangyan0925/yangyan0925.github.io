@@ -7,21 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Yang Yan, and I am currently a postdoctoral researcher at [the Institute for Chinese Studies at Freie Universität Berlin](https://www.geschkult.fu-berlin.de/e/oas/sinologie/index.html). I earned my Ph.D. in Management from Beijing University of Posts and Telecommunications (BUPT) in July 2021 and served as a postdoctoral fellow at the School of Public Policy and Management, Tsinghua University, from 2021 to 2023.
+Welcome! My name is **Yang Yan**(燕阳), and I am currently a postdoctoral researcher at [the Institute for Chinese Studies at Freie Universität Berlin](https://www.geschkult.fu-berlin.de/e/oas/sinologie/index.html). I earned my Ph.D. in Management from Beijing University of Posts and Telecommunications (BUPT) in July 2021 and served as a postdoctoral fellow at the School of Public Policy and Management, Tsinghua University, from 2021 to 2023.
 
 My research interests include **comparative politics**, **political communication**, and **public policy**, with a regional focus on China. I am now interested in how political elites in China use propaganda to shape their public image and how the Chinese government manipulates political propaganda to garner public support for national digital surveillance project. Additionally, my research covers agenda-setting, the cadre promotion system, and environmental governance.
 
 My work has been published in peer-reviewed journals such as _Administration & Society_, _Journal of Comparative Policy Analysis: Research and Practice_, and _Journal of Contemporary China_.
 
-Methodologically, I employ a variety of techniques, including qualitative text analysis, interviews, NLP (e.g., topic modeling, machine learning), and regression analysis. I am proficient in using SPSS, STATA, R, and Python for data analysis.
+Methodologically, I employ a variety of techniques, including qualitative text analysis, interviews, NLP (e.g., topic modeling, machine learning), and regression analysis. I can use SPSS, STATA, R, and Python for data analysis.
 
 You can download my CV here.
 
 Interest
 ======
 
-* Authoritarian politics；
-* Political communication；
-* Elites politics；
-* Agenda setting；
-* Contemporary China
+* Authoritarian politics
+* Political communication
+* Elites politics
+* Agenda setting
+* Digital transformation
