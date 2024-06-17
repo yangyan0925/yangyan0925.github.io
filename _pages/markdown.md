@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "大家好"
+title: "大家好!欢迎来到我的个人主页"
 author_profile: true
 redirect_from: 
   - /md/
