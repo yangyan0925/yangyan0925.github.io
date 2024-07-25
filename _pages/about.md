@@ -7,21 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-Welcome！My name is **Yang Yan**(燕阳), and I am a postdoctoral researcher at [the Institute for Chinese Studies at Freie Universität Berlin](https://www.geschkult.fu-berlin.de/e/oas/sinologie/index.html). I earned my Ph.D. in Management from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in July 2021 and served as a postdoctoral fellow at [the School of Public Policy and Management](https://www.sppm.tsinghua.edu.cn/), Tsinghua University, from 2021 to 2023.
+Welcome！My name is **Yang Yan**(燕阳), and I am a postdoctoral researcher at [the Institute for Chinese Studies at Freie Universität Berlin](https://www.geschkult.fu-berlin.de/e/oas/sinologie/index.html). I earned my Ph.D. in Management Science and Engineering from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in July 2021 and served as a postdoctoral fellow at [the School of Public Policy and Management](https://www.sppm.tsinghua.edu.cn/), Tsinghua University, from 2021 to 2023.
 
-My research interests include **comparative politics**, **political communication**, and **public policy**, with a regional focus on China. I am now particularly interested in how Chinese political elites use propaganda to shape their public image and how the government manipulates political propaganda to garner public support for national digital surveillance project. Additionally, my research covers agenda-setting, elite politics, and environmental governance.
+My research interests include **comparative politics**, **political communication**, and **public policy**, with a regional focus on China. I am now particularly interested in how Chinese political elites use propaganda to shape their public image and how the government manipulates political propaganda to garner public support for national digital surveillance project. Additionally, I am also interested in the intersection of political science and public administration, focusing on topics such as agenda-setting, bureaucracy, and environmental governance.
 
-My work has been published in peer-reviewed journals such as _Administration & Society_, _Journal of Comparative Policy Analysis: Research and Practice_, _Journal of Contemporary China_, and _China: An International Journal_.
+My work has been published in peer-reviewed journals such as _Administration & Society_, _Journal of Comparative Policy Analysis_, _Journal of Contemporary China_, and _China: An International Journal_.
 
-Methodologically, I employ a variety of techniques, including qualitative text analysis, interviews, survey, NLP (e.g., topic modeling, machine learning), and regression analysis. I can use SPSS, STATA, R, and Python for data analysis.
+Methodologically, I employ a variety of techniques, including qualitative text analysis, interviews, survey, QCA, NLP (e.g., topic modeling, machine learning), and regression analysis. I can use SPSS, STATA, R, and Python for data analysis.
 
-You can download my [CV](CV-YY202406.pdf) here.
+You can download my [CV](CV-YY20240725.pdf) here.
 
 Interest
 ======
 
-* Authoritarian politics
-* Political communication
+* Authoritarian regimes
+* Political propaganda
 * Elites politics
 * Agenda setting
-* Digital transformation
+* Digital governance
