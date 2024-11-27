@@ -15,13 +15,12 @@ My work has been published or is forthcoming in peer-reviewed journals such as _
 
 Methodologically, I employ a variety of techniques, including qualitative text analysis, interviews, survey, QCA, NLP (e.g., topic modeling, machine learning), and regression analysis. I can use SPSS, STATA, R, and Python for data analysis.
 
-You can download my [CV](CV_.pdf) here.
+You can download my [CV](CV_YY202411.pdf) here.
 
 Interest
 ======
 
 * Authoritarian regimes
 * Political propaganda
-* Elites politics
 * Agenda setting
-* Digital governance
+* Digital politics
