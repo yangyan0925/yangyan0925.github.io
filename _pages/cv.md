@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my latest CV here: [CV](CV-YY20240725.pdf)
+You can find my latest CV here: [CV](CV-YY202411.pdf)
