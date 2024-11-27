@@ -15,7 +15,7 @@ My work has been published or is forthcoming in peer-reviewed journals such as _
 
 Methodologically, I employ a variety of techniques, including qualitative text analysis, interviews, survey, QCA, NLP (e.g., topic modeling, machine learning), and regression analysis. I can use SPSS, STATA, R, and Python for data analysis.
 
-You can download my [CV](CV-YY20240725.pdf) here.
+You can download my [CV](CV_Yang Yan_202411.pdf) here.
 
 Interest
 ======
